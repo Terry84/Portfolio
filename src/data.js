@@ -34,7 +34,7 @@ export const PROJECTS = [
       "Automated e-wallet withdrawals",
       "Lead management & landing pages"
     ],
-    image: "C:\Users\Terry\Downloads\Terry.Portfolio\Portfolio\src\geralt-binary-code-7190628_1920.jpg",
+    image: " https://images.unsplash.com/photo-1644088379091-d574269d422f?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tech: ["Python + FastAPI", "PostgreSQL", "React", "WebSockets"],
     icon: Network
   },
@@ -66,7 +66,7 @@ export const PROJECTS = [
       "Kitchen Display System (KDS)",
       "Employee performance analytics"
     ],
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1647427017067-8f33ccbae493?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tech: ["React Native", "Firebase", "Node.js", "Redux"],
     icon: ShoppingCart
   }
