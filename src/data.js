@@ -34,7 +34,7 @@ export const PROJECTS = [
       "Automated e-wallet withdrawals",
       "Lead management & landing pages"
     ],
-    image: "https://images.unsplash.com/photo-1543286386-713bcd534007?auto=format&fit=crop&q=80&w=800",
+    image: "C:\Users\Terry\Downloads\Terry.Portfolio\Portfolio\src\geralt-binary-code-7190628_1920.jpg",
     tech: ["Python + FastAPI", "PostgreSQL", "React", "WebSockets"],
     icon: Network
   },
